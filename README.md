@@ -1,4 +1,4 @@
-# Calculator BDD Testing Samples
+# Calculator BDD Testing Samples And Rekamin Academy
 See https://docs.katalon.com/katalon-studio/docs/bdd-samples.html.
 
 ## Companion products
